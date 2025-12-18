@@ -45,6 +45,22 @@ Parameters:
       - c5.12xlarge
       - c5.18xlarge
       - c5.24xlarge
+      - c6i.xlarge
+      - c6i.2xlarge  
+      - c6i.4xlarge
+      - c6i.8xlarge
+      - c6i.12xlarge
+      - c6i.16xlarge
+      - c6i.24xlarge
+      - c6i.32xlarge  
+      - c7i.xlarge
+      - c7i.2xlarge  
+      - c7i.4xlarge
+      - c7i.8xlarge
+      - c7i.12xlarge
+      - c7i.16xlarge
+      - c7i.24xlarge
+      - c7i.48xlarge  
     ConstraintDescription: "Must be a valid EC2 instance type"
 
   TurnUser:
