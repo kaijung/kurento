@@ -74,6 +74,8 @@ Mappings:
       AMI: ami-0becdd21957bf5764
     ap-east-1:
       AMI: ami-013f864ad81b818d1
+    ap-east-2:
+      AMI: ami-08a4cfb6f1b3158d1
     ap-northeast-1:
       AMI: ami-0d53808c8c345ed07
     ap-northeast-2:
